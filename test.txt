@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x  3 isong isong 4096 Jul 17 16:26 .
+drwxrwxr-x 20 isong isong 4096 Jul 17 15:43 ..
+-rw-rw-r--  1 isong isong  311 Jul 17 16:26 bufiodemo_file.go
+-rw-rw-r--  1 isong isong  356 Jul 17 16:24 bufiodemo_stdin.go
+-rw-rw-r--  1 isong isong  721 Jul 17 16:06 dinnertotal.go
+-rw-rw-r--  1 isong isong  433 Jul 17 16:12 flagtest.go
+drwxrwxr-x  8 isong isong 4096 Jul 17 16:13 .git
+-rw-rw-r--  1 isong isong  293 Jul 17 16:20 scanf.go
+-rw-rw-r--  1 isong isong  331 Jul 17 15:54 showmwstuff.go
+-rw-rw-r--  1 isong isong    0 Jul 17 16:26 test.txt
